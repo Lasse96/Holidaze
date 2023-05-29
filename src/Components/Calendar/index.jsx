@@ -47,7 +47,7 @@ const Calender = ({ id, data }) => {
     }
   }
   if (response.status === 201) {
-    window.location.href = `/Home`;
+    window.location.href = `/`;
   }
 
   const disabledDate = (current) => {
