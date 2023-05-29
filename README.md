@@ -1,7 +1,7 @@
 <h1 align="center">Holidaze Lasse</h1>
 <h3 align="center">Oppgave for eksamen</h3>
 
-- Here is the link for [Netlify](https://timely-marigold-d56140.netlify.app)
+- Here is the link for [Netlify](https://holid.netlify.app/)
 
 - Kanban board [Trello](https://trello.com/invite/b/1rtLcqTC/ATTIea09acbcc01a53fbf7752180bac0afa4F82ECA46/holidaze)
 
